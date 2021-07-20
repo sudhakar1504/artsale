@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Source+Serif+Pro:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
 .product__contain{
-    background-color: rgb(243, 202, 139);
+    background-color: rgb(255, 225, 181);
    
 }
 .product__contain .head >h1{
@@ -132,7 +132,7 @@
     }
     .product__container{
        display:grid;
-       grid-template-columns: 120px;
+       grid-template-columns: 140px;
        grid-template-rows: 200px;
        margin: 2%;
        margin-left: 5%;
@@ -149,7 +149,7 @@
     }
     .product__container{
        display:grid;
-       grid-template-columns: 100px;
+       grid-template-columns: 130px;
        grid-template-rows: 180px;
        
        place-items: center;
