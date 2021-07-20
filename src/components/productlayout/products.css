@@ -132,7 +132,7 @@
     }
     .product__container{
        display:grid;
-       grid-template-columns: 140px;
+       grid-template-columns: 155px;
        grid-template-rows: 200px;
        margin: 2%;
        margin-left: 5%;
@@ -149,7 +149,7 @@
     }
     .product__container{
        display:grid;
-       grid-template-columns: 130px;
+       grid-template-columns: 145px;
        grid-template-rows: 180px;
        
        place-items: center;
